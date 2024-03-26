@@ -4,6 +4,7 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
+
 minimal_mistakes_skin    : "dark"# "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -89,12 +90,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dengue lineage system"
-  avatar           : ""
-  bio              : "Dengue lineage system"
+  name             : "Verity Hill"
+  avatar           : "/assets/images/Verity.png"
+  bio              : "Phylodynamics for public health"
   location         : 
-  email            : ""
-  uri              : ""
+  email            : "verity.hill@yale.edu"
+  uri              : "https://scholar.google.com/citations?user=uD90gFUAAAAJ&hl=en"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
@@ -102,24 +103,24 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : ""
+  github           : "viralverity"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         : ""
+  linkedin         : "verity-hill-383104132/"
   pinterest        :
   soundcloud       :
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          : "viralverity"
   vine             :
   weibo            :
   xing             :
   youtube          :
-  orcid            : ""
+  orcid            : "0000-0002-3509-8146"
 
 
 
@@ -267,4 +268,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-
