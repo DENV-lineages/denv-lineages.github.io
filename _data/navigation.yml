@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "Lineage information"
+    url: /_pages/descriptions/
+  - title: "Designation rules"
+    url: /_pages/rules/
+  - title: "FAQ"
+    url: /_pages/faq/
+  - title: "Resources"
+    url: /_pages/resources/
