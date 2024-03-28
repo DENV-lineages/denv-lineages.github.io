@@ -17,12 +17,12 @@ feature_row_gd:
     btn_label: "Go to website"
     btn_class: "btn--inverse"
 feature_row_glue:
-  - image_path: "/assets/images/genome_detective.png"
-  - alt: "GLUE logo"
-  - title: "GLUE (NB tool not ready yet, this is a placeholder)"
-  - url: "http://glue-tools.cvr.gla.ac.uk/#/home"
-  - btn_label: "Go to website"
-  - btn_class: "btn--inverse"
+  - image_path: "/assets/images/glue.png"
+    alt: "GLUE logo"
+    title: "GLUE (NB tool not ready yet, this is a placeholder)"
+    url: "http://glue-tools.cvr.gla.ac.uk/#/home"
+    btn_label: "Go to website"
+    btn_class: "btn--inverse"
 
 ---
 
