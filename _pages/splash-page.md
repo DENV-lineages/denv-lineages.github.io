@@ -29,3 +29,4 @@ feature_row_glue:
 {% include feature_row id="intro" type="center" %}
 Looking to assign sequences to a lineage? Use one of these tools:
 {% include feature_row id="feature_row_gd" type="left" %}
+{% include feature_row id="feature_row_glue" type="right" %}
