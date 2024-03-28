@@ -15,8 +15,9 @@ feature_row:
     title: "Genome Detective Typing Tool"
     url: "https://www.genomedetective.com/app/typingtool/dengue/"
     btn_label: "Go to website"
-    btn_class: "btn--primary"
+    btn_class: "btn--inverse"
 ---
 
 {% include feature_row id="intro" type="center" %}
-{% include feature_row %}
+"test"
+{% include feature_row type="left" %}
