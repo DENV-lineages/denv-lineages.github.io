@@ -9,7 +9,7 @@ header:
 excerpt: "This is a website for all things dengue lineages. It is currently under construction - watch this space!"
 intro: 
   - excerpt: 'If you used information on this website, please cite [this paper]()'
-feature_row:
+gallery:
   - image_path: "/assets/images/genome_detective.png"
     alt: "Genome detective logo"
     title: "Genome Detective Typing Tool"
@@ -27,5 +27,5 @@ feature_row:
 
 {% include feature_row id="intro" type="center" %}
 Looking to assign sequences to a lineage? Use one of these tools:
-{% include feature_row id="feature_row" type="center" %} 
+{% include gallery id="gallery" %} 
 
