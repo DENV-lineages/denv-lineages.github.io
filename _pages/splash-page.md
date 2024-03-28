@@ -21,7 +21,7 @@ gallery:
 
 ---
 
-{% include feature_row id="intro" type="left" %}
+{% include feature_row id="intro" type="center" %}
 Looking to assign sequences to a lineage? Use one of these tools:
 {% include gallery id="gallery" layout="half" %} 
 
