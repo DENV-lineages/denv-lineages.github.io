@@ -27,5 +27,5 @@ feature_row:
 
 {% include feature_row id="intro" type="center" %}
 Looking to assign sequences to a lineage? Use one of these tools:
-{% include feature_row id="feature_row" type="center: %} 
+{% include feature_row id="feature_row" type="center" %} 
 
