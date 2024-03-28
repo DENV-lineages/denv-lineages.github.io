@@ -14,18 +14,14 @@ gallery:
     alt: "Genome detective logo"
     title: "Genome Detective Typing Tool"
     url: "https://www.genomedetective.com/app/typingtool/dengue/"
-    btn_label: "Go to website"
-    btn_class: "btn--inverse"
   - image_path: "/assets/images/glue.png"
     alt: "GLUE logo"
     title: "GLUE (NB tool not ready yet, this is a placeholder)"
     url: "http://glue-tools.cvr.gla.ac.uk/#/home"
-    btn_label: "Go to website"
-    btn_class: "btn--inverse"
 
 ---
 
-{% include feature_row id="intro" type="center" %}
+{% include feature_row id="intro" type="left" %}
 Looking to assign sequences to a lineage? Use one of these tools:
-{% include gallery id="gallery" %} 
+{% include gallery id="gallery" layout="half" %} 
 
