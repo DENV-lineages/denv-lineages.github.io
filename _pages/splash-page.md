@@ -8,7 +8,15 @@ header:
   overlay_image: /assets/images/dengue.jpeg
 excerpt: "This is a website for all things dengue lineages. It is currently under construction - watch this space!"
 intro: 
-  - excerpt: 'This is placeholder text'
+  - excerpt: 'If you used information on this website, please cite [this paper]()'
+feature_row:
+  - image_path: "/assets/images/genome_detective.png"
+    alt: "Genome detective logo"
+    title: "Genome Detective Typing Tool"
+    url: "https://www.genomedetective.com/app/typingtool/dengue/"
+    btn_label: "Go to website"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
+{% include feature_row %}
