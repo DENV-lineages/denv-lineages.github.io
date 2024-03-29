@@ -10,7 +10,7 @@ excerpt: "This is a website for all things dengue lineages. It is currently unde
 intro: 
   - excerpt: 'If you used information on this website, please cite [this paper]()'
 gallery:
-  - image_path: "/assets/images/genome_detective.png"
+  - image_path: "/assets/images/genome_detective.svg"
     alt: "Genome detective logo"
     title: "Genome Detective Typing Tool"
     url: "https://www.genomedetective.com/app/typingtool/dengue/"
