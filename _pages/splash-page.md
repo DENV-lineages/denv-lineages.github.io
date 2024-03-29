@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/dengue.jpeg
 excerpt: "This is a website for all things dengue lineages. It is currently under construction - watch this space!"
 intro: 
-  - excerpt: ''This lineage system has been developed by a large, international collaboration to provide a common language to discuss important dengue virus genomic diversity, as well as provide additional spatiotemporal resolution below the genotype level.If you used information on this website, please cite [this paper]()'
+  - excerpt: 'This lineage system has been developed by a large, international collaboration to provide a common language to discuss important dengue virus genomic diversity, as well as provide additional spatiotemporal resolution below the genotype level.If you used information on this website, please cite [this paper]()'
 ---
 
 {% include feature_row id="intro" type="center" %}
