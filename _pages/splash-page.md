@@ -36,14 +36,14 @@ intro:
 
 <div class="splash_section" id="assignment_tools">
 			<!--<div class="logo_container"><img src="assets/images/{{item.logourl}}"/></div>-->
-				<figure class="effect-duke">
+				<figure>
 					<img src="assets/images/genome_detective.svg"/>
 					<figcaption>
 						<p>
-							"Genome Detective"<br>
-							<span class="duke-description">"this is a descriptpion for genome detective"</span>
+						  Genome Detective<br>
+						  <span class="duke-description">Genome Detective assignment tool</span>
 						</p>
-						<a href="/assets/images/genome_detective.svg">View more</a>
+						<a href="https://www.genomedetective.com/app/typingtool/dengue/">View more</a>
 					</figcaption>			
 				</figure>
 	</div>
