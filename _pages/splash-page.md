@@ -23,15 +23,17 @@ intro:
 
 {% include feature_row id="intro" type="center" %}
 
-<div class="splash_section" id="about">
+This lineage system has been developed by a large, international collaboration to provide a common language to discuss important dengue virus genomic diversity, as well as provide additional spatiotemporal resolution below the genotype level. 
+
+<!-- <div class="splash_section" id="about">
   <div class="container">
     <p>
-    <h4>This lineage system has been developed by a large, international collaboration to provide a common language to discuss important dengue virus genomic diversity, as well as provide additional spatiotemporal resolution below the genotype level. </h4>
+    <h4>T</h4>
     <br>
     </p>
   </div>
   
-</div>
+</div> -->
 
 Looking to assign sequences to a lineage? Use one of these tools:
 <div class="splash_sections" id="assignment_tools">
