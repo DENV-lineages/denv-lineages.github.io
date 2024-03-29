@@ -18,7 +18,7 @@ If your sequence is newer than the last data download you want to find out what 
 
 Information on [genotypes](#genotypes), [major lineages](#major-lineages) and [minor lineages](#minor-lineages) found below
 
-### [Genotypes]
+### Genotypes
 
 |genotype  |common_name                      |size|most_common_country             |oldest_date|newest_date|type    |
 |----------|---------------------------------|----|--------------------------------|-----------|-----------|--------|
@@ -44,7 +44,7 @@ Information on [genotypes](#genotypes), [major lineages](#major-lineages) and [m
 |4IV       |                                 |7   |Malaysia                        |1973-01-01 |1975-01-01 |sylvatic|
 
 
-### [Major lineages]
+### Major lineages
 
 |genotype  |size|num_mutations|most_common_country|oldest_date|newest_date|
 |----------|----|-------------|-------------------|-----------|-----------|
@@ -100,7 +100,7 @@ Information on [genotypes](#genotypes), [major lineages](#major-lineages) and [m
 |4II_A     |90  |87.66        |Indonesia          |1973-01-01 |2022-07-01 |
 |4II_B     |209 |112.91       |Brazil             |1953-01-01 |2022-12-20 |
 
-### [Minor lineages]
+### Minor lineages
 
 |genotype  |size|num_mutations|most_common_country|oldest_date|newest_date|
 |----------|----|-------------|-------------------|-----------|-----------|
