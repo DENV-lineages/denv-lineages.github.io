@@ -9,20 +9,15 @@ excerpt: "Lab protocols, bioinformatic pipelines, and helpful software"
 ---
 <div>
 {% for category in site.data.resource_categories %}
-	
 	<h3>{{category.name}}</h3>
-
 	<section class="resourcesSection">
 		{% for item in site.data.resources %}
-
 			{% if item.category == category.name %}
-
 				<div class="course">
-					<div class="course-preview">
+					<figure>
 						<img src="assets/images/{{item.picture}}"/>
-					</div>
+					</figure>
 					<div class="course-info">
-						
 						<h6>{{item.subheading}}</h6>
 						<h2>{{item.name}}</h2>
 						<p>{{item.description}}</p><br><br>
