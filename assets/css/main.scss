@@ -83,6 +83,23 @@ figure.effect-duke:hover p {
 .splash_section .container {
 	padding-top: 125px;
 }
+.splash_section {
+	width: 100%;
+	background: white;
+	z-index: 5;	
+}
+#splash_sections_container {
+	top: calc(100% - 25px);
+}
+#splash_sections_container {
+	position: absolute;
+	top: calc(100% - 25px);
+	left: 25px;
+	width: calc(100% - 50px);
+	z-index: 5;
+	height: auto;
+	display: grid;
+}
 
 #assignment_tools figure {
 	position: relative;
