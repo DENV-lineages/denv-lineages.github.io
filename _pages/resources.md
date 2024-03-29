@@ -19,7 +19,7 @@ excerpt: "Lab protocols, bioinformatic pipelines, and helpful software"
 
 				<div class="course">
 					<div class="course-preview">
-						<img src="assets/images/{{item.logourl}}"/>
+						<img src="assets/images/{{item.picture}}"/>
 					</div>
 					<div class="course-info">
 						
