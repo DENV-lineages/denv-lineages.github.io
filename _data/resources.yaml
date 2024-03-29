@@ -6,8 +6,8 @@
   category: Lab protocols
 - name: PCR protocol
   link: /
-  description: Good PCR protocol
-  picture: glab.png
+  description: Good PCR protocol placeholder
+  picture: placeholder.png
   subheading: sequencing protocol
   category: Lab protocols
 - name: Genome Detective

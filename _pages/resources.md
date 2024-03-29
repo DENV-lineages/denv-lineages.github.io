@@ -25,9 +25,7 @@ excerpt: "Lab protocols, bioinformatic pipelines, and helpful software"
                             </figcaption>			
                         </figure>
 
-                    {% endif %}
-                <br>
-                <br>	
+                    {% endif %}	
                 {% endfor %}
         </div>
     {% endfor %}
