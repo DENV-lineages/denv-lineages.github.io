@@ -36,7 +36,7 @@ intro:
 
 <div class="splash_section" id="assignment_tools">
 			<!--<div class="logo_container"><img src="assets/images/{{item.logourl}}"/></div>-->
-				<figure>
+				<figure class="effect-duke">
 					<img src="assets/images/genome_detective.svg"/>
 					<figcaption>
 						<p>
@@ -47,6 +47,17 @@ intro:
 					</figcaption>			
 				</figure>
 	</div>
+
+  		<figure class="effect-duke">
+					<img src="assets/images/{{item.logourl}}"/>
+					<figcaption>
+						<p>
+							{{item.name}}<br>
+							<span class="duke-description">{{item.description}}</span>
+						</p>
+						<a href="{{item.link}}">View more</a>
+					</figcaption>			
+				</figure>
 
 <!-- Looking to assign sequences to a lineage? Use one of these tools:
 
