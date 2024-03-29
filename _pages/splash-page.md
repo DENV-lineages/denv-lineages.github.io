@@ -13,7 +13,7 @@ intro:
 
 {% include feature_row id="intro" type="center" %}
 
-For rules on how to **designate a new lineage** go [here](/_pages/rules.md)
+For rules on how to **designate a new lineage** go [here](/_pages/rules/)
 
 Looking to assign your sequences to an existing lineage? Use one of these tools:
 <div class="splash_sections" id="assignment_tools">
@@ -40,8 +40,8 @@ Looking to assign your sequences to an existing lineage? Use one of these tools:
 				</figure>
 	</div>
 
-
-For information on existing lineages, including their size and where they are currenlty mostly sampled, head to [the lineage information page](/_pages/descriptions.md)
+<br>
+For information on existing lineages, including their size and where they are currenlty mostly sampled, head to [the lineage information page](/_pages/descriptions/)
 
 
 
