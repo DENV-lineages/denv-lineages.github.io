@@ -8,13 +8,14 @@ header:
   overlay_image: /assets/images/dengue.jpeg
 excerpt: "This is a website for all things dengue lineages. It is currently under construction - watch this space!"
 intro: 
-  - excerpt: 'This lineage system has been developed by a large, international collaboration to provide a common language to discuss important dengue virus genomic diversity, as well as provide additional spatiotemporal resolution below the genotype level.If you used information on this website, please cite [this paper]()'
+  - excerpt: 'This lineage system has been developed by a large, international collaboration to provide a common language to discuss important dengue virus genomic diversity, as well as provide additional spatiotemporal resolution below the genotype level. If you used information on this website, please cite [this paper]()'
 ---
 
 {% include feature_row id="intro" type="center" %}
 
+For rules on how to **designate a new lineage** go [here](/_pages/rules.md)
 
-Looking to assign sequences to a lineage? Use one of these tools:
+Looking to assign your sequences to an existing lineage? Use one of these tools:
 <div class="splash_sections" id="assignment_tools">
 			<!--<div class="logo_container"><img src="assets/images/{{item.logourl}}"/></div>-->
 				<figure class="effect-duke">
@@ -38,6 +39,9 @@ Looking to assign sequences to a lineage? Use one of these tools:
 					</figcaption>			
 				</figure>
 	</div>
+
+
+For information on existing lineages, including their size and where they are currenlty mostly sampled, head to [the lineage information page](/_pages/descriptions.md)
 
 
 
