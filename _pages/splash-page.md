@@ -27,8 +27,9 @@ intro:
 Looking to assign sequences to a lineage? Use one of these tools:
 
 <figure>
-  <img src="/assets/images/genome_detective.svg" alt="Genome detective logo" width="20" height="20">
+  <img src="/assets/images/genome_detective.svg" alt="Genome detective logo" width="50%" height="auto">
   <figcaption>Genome Detective typing tool</figcaption>
+  <a href="https://www.genomedetective.com/app/typingtool/dengue/" ></a>
 </figure>
 <a class="btn" href="https://www.genomedetective.com/app/typingtool/dengue/">
   Go to website
