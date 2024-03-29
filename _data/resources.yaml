@@ -1,0 +1,6 @@
+- name: Dengueseq
+  link: https://www.protocols.io/view/dengueseq-a-pan-serotype-whole-genome-amplicon-seq-kqdg39xxeg25/v3
+  description: Amplicon-based, pan-serotype, whole genome sequencing protocol
+  picture: /assets/images/glab.png
+  subheading: sequencing protocol
+  category: Lab protocols
