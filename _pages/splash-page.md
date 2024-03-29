@@ -9,6 +9,8 @@ header:
 excerpt: "This is a website for all things dengue lineages. It is currently under construction - watch this space!"
 intro: 
   - excerpt: 'If you used information on this website, please cite [this paper]()'
+description:
+  - excerpt: 'This lineage system has been developed by a large, international collaboration to provide a common language to discuss important dengue virus genomic diversity, as well as provide additional spatiotemporal resolution below the genotype level.'
 # gallery:
 #   - image_path: "/assets/images/genome_detective.svg"
 #     alt: "Genome detective logo"
@@ -22,8 +24,9 @@ intro:
 ---
 
 {% include feature_row id="intro" type="center" %}
+{% include feature_row id="description" type="left" width="100%" %}
 
-This lineage system has been developed by a large, international collaboration to provide a common language to discuss important dengue virus genomic diversity, as well as provide additional spatiotemporal resolution below the genotype level. 
+ 
 
 <!-- <div class="splash_section" id="about">
   <div class="container">
