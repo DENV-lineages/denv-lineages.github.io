@@ -11,6 +11,7 @@ excerpt: "Lab protocols, bioinformatic pipelines, and helpful software"
 <div class="splash_section" id="software_logos">
 		{% for item in site.data.resources %}
             {{item.category}}
+            {{category.name}}
 			{% if item.category == category.name %}
 				<figure class="effect-duke">
 					<img src="assets/images/{{item.picture}}"/>
