@@ -36,7 +36,7 @@ intro:
 Looking to assign sequences to a lineage? Use one of these tools:
 <div class="splash_sections" id="assignment_tools">
 			<!--<div class="logo_container"><img src="assets/images/{{item.logourl}}"/></div>-->
-				<figure class="effect-duke">
+				<figure class="effect-duke" style="--width: 50%;">
 					<img src="assets/images/genome_detective.svg" style="width:50%"/>
 					<figcaption>
 						<p>
@@ -46,7 +46,7 @@ Looking to assign sequences to a lineage? Use one of these tools:
 						<a href="https://www.genomedetective.com/app/typingtool/dengue/">View more</a>
 					</figcaption>			
 				</figure>
-        <figure class="effect-duke">
+        <figure class="effect-duke" style="--width: 50%;">
 					<img src="assets/images/glue.png" style="width:50%"/>
 					<figcaption>
 						<p>
