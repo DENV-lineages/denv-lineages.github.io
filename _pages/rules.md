@@ -1,1 +1,13 @@
-## test rules
+---
+title: "Dengue lineage designation rules"
+layout: single
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/dengue.jpeg
+excerpt: ""
+ actions:
+    - label: "Submit lineage designations here"
+      url: "https://github.com/DENV-lineages/denv-lineage-designation/issues"
+classes: wide
+---

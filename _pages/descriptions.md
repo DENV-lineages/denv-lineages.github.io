@@ -1,4 +1,13 @@
-Data last downloaded: 2023-07-28
+---
+title: "Dengue lineage information"
+layout: single
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/dengue.jpeg
+excerpt: "Data last downloaded: 2023-07-28"
+classes: wide
+---
 
 These are the descriptions of the current state of officially designated lineages. 
 Clicking on each link takes you to a nextstrain build of genomes in the current data pull. 
@@ -7,9 +16,9 @@ Please don't worry if you don't see your exact sequence in the build: it may not
 
 If your sequence is newer than the last data download you want to find out what lineage your sequence is, you want to use an assignment tool like [genome detective](https://www.genomedetective.com/app/typingtool/dengue/) or [GLUE](http://glue-tools.cvr.gla.ac.uk/#/home) (NB GLUE IS NOT YET READY this is a placeholder)
 
-Information on level of lineage designation is found below:
+Information on [genotypes](#genotypes), [major lineages](#major-lineages) and [minor lineages](#minor-lineages) found below
 
-### Genotypes
+### [Genotypes]
 
 |genotype  |common_name                      |size|most_common_country             |oldest_date|newest_date|type    |
 |----------|---------------------------------|----|--------------------------------|-----------|-----------|--------|
@@ -35,7 +44,7 @@ Information on level of lineage designation is found below:
 |4IV       |                                 |7   |Malaysia                        |1973-01-01 |1975-01-01 |sylvatic|
 
 
-### Major lineages
+### [Major lineages]
 
 |genotype  |size|num_mutations|most_common_country|oldest_date|newest_date|
 |----------|----|-------------|-------------------|-----------|-----------|
@@ -91,7 +100,7 @@ Information on level of lineage designation is found below:
 |4II_A     |90  |87.66        |Indonesia          |1973-01-01 |2022-07-01 |
 |4II_B     |209 |112.91       |Brazil             |1953-01-01 |2022-12-20 |
 
-### Minor lineages
+### [Minor lineages]
 
 |genotype  |size|num_mutations|most_common_country|oldest_date|newest_date|
 |----------|----|-------------|-------------------|-----------|-----------|
