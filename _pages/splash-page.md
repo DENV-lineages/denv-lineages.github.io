@@ -47,7 +47,7 @@ Looking to assign sequences to a lineage? Use one of these tools:
 					</figcaption>			
 				</figure>
         <figure class="effect-duke">
-					<img src="assets/images/glue.png" style="width=50%"/>
+					<img src="assets/images/glue.png" style="width:50%"/>
 					<figcaption>
 						<p>
 						  GLUE<br>
