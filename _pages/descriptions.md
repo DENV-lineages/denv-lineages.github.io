@@ -9,7 +9,7 @@ excerpt: "Data last downloaded: 2023-07-28"
 ---
 
 These are the descriptions of the current state of officially designated lineages. 
-Clicking on each link takes you to a nextstrain build of genomes in the current data pull. 
+Clicking on each link takes you to a nextstrain build of genomes in the current data pull (COMING SOON).
 
 Please don't worry if you don't see your exact sequence in the build: it may not have been released on genbank until after the current build, or it may have been downsampled out because there are lots of sequences already from that location.
 
