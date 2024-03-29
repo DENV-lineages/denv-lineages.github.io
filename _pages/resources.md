@@ -10,10 +10,11 @@ excerpt: "Lab protocols, bioinformatic pipelines, and helpful software"
 
 <div class="splash_section" id="assignment_tools">
     {% for category in site.data.resource_categories %}
+        {{category.name}}
 		{% for item in site.data.resources %}
 			{% if item.category == category.name %}
 				<figure class="effect-duke">
-					<img src="assets/images/{{item.picture}}"/>
+					<img src="assets/images/genome_detective.svg"/>
 					<figcaption>
 						<p>
 							{{item.name}}<br>
