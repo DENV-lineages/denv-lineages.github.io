@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/dengue.jpeg
 excerpt: "Lab protocols, bioinformatic pipelines, and helpful software"
 ---
-
+<div>
 {% for category in site.data.resource_categories %}
 	
 	<h3>{{category.name}}</h3>
@@ -32,6 +32,6 @@ excerpt: "Lab protocols, bioinformatic pipelines, and helpful software"
 			{% endif %}
 		{% endfor %}  
 	</section>
-	
 
 {% endfor %}
+</div>
