@@ -8,35 +8,11 @@ header:
   overlay_image: /assets/images/dengue.jpeg
 excerpt: "This is a website for all things dengue lineages. It is currently under construction - watch this space!"
 intro: 
-  - excerpt: 'If you used information on this website, please cite [this paper]()'
-description:
-  - excerpt: 'This lineage system has been developed by a large, international collaboration to provide a common language to discuss important dengue virus genomic diversity, as well as provide additional spatiotemporal resolution below the genotype level.'
-# gallery:
-#   - image_path: "/assets/images/genome_detective.svg"
-#     alt: "Genome detective logo"
-#     title: "Genome Detective Typing Tool"
-#     url: "https://www.genomedetective.com/app/typingtool/dengue/"
-#   - image_path: "/assets/images/glue.png"
-#     alt: "GLUE logo"
-#     title: "GLUE (NB tool not ready yet, this is a placeholder)"
-#     url: "http://glue-tools.cvr.gla.ac.uk/#/home"
-# <!-- {% include gallery id="gallery" layout="half" %}  -->
+  - excerpt: ''This lineage system has been developed by a large, international collaboration to provide a common language to discuss important dengue virus genomic diversity, as well as provide additional spatiotemporal resolution below the genotype level.If you used information on this website, please cite [this paper]()'
 ---
 
 {% include feature_row id="intro" type="center" %}
-{% include feature_row id="description" type="left" width="100%" %}
 
- 
-
-<!-- <div class="splash_section" id="about">
-  <div class="container">
-    <p>
-    <h4>T</h4>
-    <br>
-    </p>
-  </div>
-  
-</div> -->
 
 Looking to assign sequences to a lineage? Use one of these tools:
 <div class="splash_sections" id="assignment_tools">
