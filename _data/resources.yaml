@@ -7,6 +7,6 @@
 - name: Test
   link: https://www.protocols.io/view/dengueseq-a-pan-serotype-whole-genome-amplicon-seq-kqdg39xxeg25/v3
   description: Amplicon-based, pan-serotype, whole genome sequencing protocol
-  picture: glab.png
+  picture: genome_detective.svg
   subheading: sequencing protocol
   category: Bioinformatic pipelines for consensus generation
