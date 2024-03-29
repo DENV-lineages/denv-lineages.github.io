@@ -26,4 +26,6 @@ excerpt: "Lab protocols, bioinformatic pipelines, and helpful software"
 			{% endif %}
 				
 		{% endfor %}
+    {% endfor %}
+    
 </div>
