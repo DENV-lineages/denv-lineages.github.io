@@ -4,9 +4,40 @@
   picture: glab.png
   subheading: sequencing protocol
   category: Lab protocols
-- name: Test
-  link: https://www.protocols.io/view/dengueseq-a-pan-serotype-whole-genome-amplicon-seq-kqdg39xxeg25/v3
-  description: Amplicon-based, pan-serotype, whole genome sequencing protocol
-  picture: genome_detective.svg
+- name: PCR protocol
+  link: /
+  description: Good PCR protocol
+  picture: glab.png
   subheading: sequencing protocol
+  category: Lab protocols
+- name: Genome Detective
+  link: https://www.genomedetective.com/app/typingtool/dengue/
+  description: Graphical user interface for assigning new sequences to existing lineages
+  picture: genome_detective.svg
+  category: Assignment tools
+- name: GLUE
+  link: /
+  description: Command line tool for assigning new sequences to existing lineages
+  picture: glue.png
+  category: Assignment tools
+- name: Dengueseq pipeline
+  link: https://github.com/grubaughlab/DENV_pipeline
+  description: open source pipeline for generating consensus sequences from Illumina reads
+  picture: glab.png
   category: Bioinformatic pipelines for consensus generation
+- name: Dengueseq MinION pipeline
+  link: https://github.com/josephfauver/DENV_MinION_Script
+  description: open source pipeline for generating consensus sequences from MinION reads
+  picture: placeholder.png
+  category: Bioinformatic pipelines for consensus generation
+- name: Genome Detective consensus generating pipeline
+  link: https://www.genomedetective.com/db/ui/login
+  description: graphical user interface for generating consensus genomes from FASTQ files
+  picture: genome_detective.svg
+  category: Bioinformatic pipelines for consensus generation
+- name: Nextstrain
+  link: https://nextstrain.org/community/grubaughlab/DENV-genomics/
+  description: Visualisation of currently available dengue genomic data
+  picture: placeholder.png
+  category: Helpful websites
+
