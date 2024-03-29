@@ -23,17 +23,41 @@ intro:
 
 {% include feature_row id="intro" type="center" %}
 
+<div class="splash_section" id="about">
+  <div class="container">
+    
+    <h4>Test text describing the lineages</h4>
+    <br>
 
-Looking to assign sequences to a lineage? Use one of these tools:
+    </p>
+  </div>
+  
+</div>
+
+<div class="splash_section" id="assignment_tools">
+			<!--<div class="logo_container"><img src="assets/images/{{item.logourl}}"/></div>-->
+				<figure class="effect-duke">
+					<img src="assets/images/genome_detective.svg"/>
+					<figcaption>
+						<p>
+							"Genome Detective"<br>
+							<span class="duke-description">"this is a descriptpion for genome detective"</span>
+						</p>
+						<a href="/assets/images/genome_detective.svg">View more</a>
+					</figcaption>			
+				</figure>
+	</div>
+
+<!-- Looking to assign sequences to a lineage? Use one of these tools:
 
 <figure>
-  <img src="/assets/images/genome_detective.svg" alt="Genome detective logo" width="50%" height="auto">
+  <img src="/assets/images/genome_detective.svg" alt="Genome detective logo" style="width:50%">
   <figcaption>Genome Detective typing tool</figcaption>
   <a href="https://www.genomedetective.com/app/typingtool/dengue/" ></a>
 </figure>
 <a class="btn" href="https://www.genomedetective.com/app/typingtool/dengue/">
   Go to website
-</a>
+</a> -->
 
 
 
