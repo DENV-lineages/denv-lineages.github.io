@@ -29,7 +29,7 @@ Looking to assign your sequences to an existing lineage? Use one of these tools:
 					</figcaption>			
 				</figure>
         <figure class="effect-duke">
-					<img src="assets/images/glab.png"/>
+					<img src="assets/images/glue.png"/>
 					<figcaption>
 						<p>
 						  GLUE<br>
