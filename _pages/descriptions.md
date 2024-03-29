@@ -1,12 +1,11 @@
 ---
 title: "Dengue lineage information"
-layout: single
+layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/dengue.jpeg
 excerpt: "Data last downloaded: 2023-07-28"
-classes: wide
 ---
 
 These are the descriptions of the current state of officially designated lineages. 
