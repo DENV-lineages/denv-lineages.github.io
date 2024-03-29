@@ -25,10 +25,9 @@ intro:
 
 <div class="splash_section" id="about">
   <div class="container">
-    
+    <p>
     <h4>Test text describing the lineages</h4>
     <br>
-
     </p>
   </div>
   
@@ -46,29 +45,21 @@ intro:
 						<a href="https://www.genomedetective.com/app/typingtool/dengue/">View more</a>
 					</figcaption>			
 				</figure>
-	</div>
-
-  		<figure class="effect-duke">
-					<img src="assets/images/{{item.logourl}}"/>
+        <figure class="effect-duke">
+					<img src="assets/images/glue.png"/>
 					<figcaption>
 						<p>
-							{{item.name}}<br>
-							<span class="duke-description">{{item.description}}</span>
+						  GLUE<br>
+						  <span class="duke-description">GLUE assignment tool</span>
 						</p>
-						<a href="{{item.link}}">View more</a>
+						<a href="https://www.genomedetective.com/app/typingtool/dengue/">View more</a>
 					</figcaption>			
 				</figure>
+	</div>
+
 
 <!-- Looking to assign sequences to a lineage? Use one of these tools:
 
-<figure>
-  <img src="/assets/images/genome_detective.svg" alt="Genome detective logo" style="width:50%">
-  <figcaption>Genome Detective typing tool</figcaption>
-  <a href="https://www.genomedetective.com/app/typingtool/dengue/" ></a>
-</figure>
-<a class="btn" href="https://www.genomedetective.com/app/typingtool/dengue/">
-  Go to website
-</a> -->
 
 
 
