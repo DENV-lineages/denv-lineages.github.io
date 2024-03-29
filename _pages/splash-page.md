@@ -58,7 +58,7 @@ intro:
 	</div>
 
 
-<!-- Looking to assign sequences to a lineage? Use one of these tools:
+<!-- Looking to assign sequences to a lineage? Use one of these tools: -->
 
 
 
