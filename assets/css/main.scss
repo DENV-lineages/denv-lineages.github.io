@@ -72,6 +72,18 @@ figure.effect-duke:hover p {
 	grid-template-columns: 1fr;
 }
 
+#assignment_tools {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	background: white;
+	width: 100%
+
+	/*	margin-left: -25px;
+	margin-right: -25px;
+	width: calc(100% + 50px);*/
+}
+
+
 #splash_text {
 	font-size: 170%;
 	text-align: center;
@@ -82,6 +94,24 @@ figure.effect-duke:hover p {
 
 .splash_section .container {
 	padding-top: 125px;
+}
+
+.container {
+	padding-top: 200px;
+	max-width: 85%;
+	padding-bottom: 100px;
+}
+.container h1 {
+	text-align: center;
+}
+.container a, .container a:visited {
+	color: #4c4c4c !important;
+	text-decoration: underline;
+}
+
+.container a:hover {
+
+	color: #000000 !important;
 }
 .splash_section {
 	width: 100%;
@@ -114,6 +144,16 @@ figure.effect-duke:hover p {
 	cursor: pointer;
 }
 
+#assignment_tools figure p {
+	letter-spacing: 1px;
+	font-size: 68.5%;
+}
+
+#assignment_tools figure img{
+	height: 270px;
+	width: auto;
+	padding: 25px;
+}
 
 #assignment_tools figure figcaption {
 	padding: 2em;
