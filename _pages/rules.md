@@ -1,5 +1,6 @@
 ---
 title: "Dengue lineage designation rules"
+layout: dengue_layout
 toc: true
 toc_sticky: true
 header:
