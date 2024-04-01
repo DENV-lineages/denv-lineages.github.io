@@ -1,9 +1,9 @@
 ---
 title: "Dengue lineage designation rules"
-layout: dengue_layout
-classes: wide
-toc: false
-toc_sticky: false
+layout: single
+classes: wide-left
+toc: true
+toc_sticky: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
