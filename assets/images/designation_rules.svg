@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 988.5 841.9" style="enable-background:new 0 0 988.5 841.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#3C3C3B;stroke-miterlimit:10;}
+	.st1{font-family:'HelveticaNeue-Thin';}
+	.st2{font-size:15px;}
+	.st3{font-size:30px;}
+	.st4{fill:none;stroke:#B499C9;stroke-width:3;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#3C3C3B;stroke-width:1.5;stroke-miterlimit:8;}
+	.st6{font-size:18px;}
+	.st7{font-size:16px;}
+	.st8{font-size:20px;}
+</style>
+<line class="st0" x1="122.4" y1="129" x2="422.5" y2="129"/>
+<line class="st0" x1="122.4" y1="230" x2="365.1" y2="230"/>
+<line class="st0" x1="122.4" y1="230" x2="122.4" y2="129"/>
+<line class="st0" x1="74.8" y1="179.5" x2="122.4" y2="179.5"/>
+<g>
+	<line class="st0" x1="422.5" y1="129.1" x2="504.5" y2="84.1"/>
+	<line class="st0" x1="423.5" y1="129.2" x2="503.5" y2="166.2"/>
+	<line class="st0" x1="503.5" y1="166.2" x2="504.4" y2="83.6"/>
+</g>
+<g>
+	<line class="st0" x1="365.1" y1="230.2" x2="447.1" y2="185.2"/>
+	<line class="st0" x1="366.1" y1="230.4" x2="446.1" y2="267.4"/>
+	<line class="st0" x1="446.1" y1="267.4" x2="447" y2="184.8"/>
+</g>
+<text transform="matrix(1 0 0 1 684.3457 116.1987)" class="st1 st2">Branch length &gt;= 25 substitutions</text>
+<text transform="matrix(1 0 0 1 685.2902 152.8742)"><tspan x="0" y="0" class="st1 st2">Number of tips &gt;= 15</tspan><tspan x="0" y="36" class="st1 st2">Sister lineage</tspan></text>
+<line class="st0" x1="219" y1="312.8" x2="519.1" y2="312.8"/>
+<line class="st0" x1="292.7" y1="434.7" x2="535.4" y2="434.7"/>
+<line class="st0" x1="125" y1="485.3" x2="124.8" y2="364.3"/>
+<line class="st0" x1="77.3" y1="424.8" x2="124.8" y2="424.8"/>
+<g>
+	<line class="st0" x1="519.1" y1="312.9" x2="601.1" y2="267.9"/>
+	<line class="st0" x1="520.1" y1="313.1" x2="600.1" y2="350.1"/>
+	<line class="st0" x1="600.1" y1="350.1" x2="601" y2="267.4"/>
+</g>
+<g>
+	<line class="st0" x1="535.4" y1="434.9" x2="617.4" y2="389.9"/>
+	<line class="st0" x1="536.4" y1="435.1" x2="616.4" y2="472.1"/>
+	<line class="st0" x1="616.4" y1="472.1" x2="617.3" y2="389.4"/>
+</g>
+<line class="st0" x1="124.8" y1="364.3" x2="220.2" y2="364.3"/>
+<line class="st0" x1="125" y1="485.3" x2="293" y2="485.3"/>
+<line class="st0" x1="220.2" y1="414.8" x2="220.2" y2="313.8"/>
+<line class="st0" x1="220" y1="414.8" x2="267.5" y2="414.8"/>
+<circle class="st0" cx="277.8" cy="414.2" r="10.3"/>
+<line class="st0" x1="293" y1="535.3" x2="340.6" y2="535.3"/>
+<circle class="st0" cx="350.8" cy="534.7" r="10.3"/>
+<line class="st0" x1="293" y1="535.8" x2="293" y2="434.8"/>
+<text transform="matrix(1 0 0 1 28.8057 44.7667)" class="st1 st3">Valid lineages</text>
+<line class="st4" x1="706.5" y1="675.7" x2="857.1" y2="675.7"/>
+<line class="st0" x1="706.5" y1="736.4" x2="706.5" y2="675.7"/>
+<line class="st0" x1="634.3" y1="748.6" x2="658.2" y2="748.6"/>
+<g>
+	<line class="st4" x1="857.1" y1="675.7" x2="898.2" y2="648.6"/>
+	<line class="st4" x1="857.6" y1="675.8" x2="897.7" y2="698.1"/>
+	<line class="st4" x1="897.7" y1="698.1" x2="898.2" y2="648.3"/>
+</g>
+<line class="st0" x1="705.9" y1="736.8" x2="729.8" y2="736.8"/>
+<circle class="st0" cx="736.6" cy="736.1" r="6.9"/>
+<line class="st0" x1="658.2" y1="706.2" x2="706" y2="706.2"/>
+<line class="st0" x1="658.3" y1="779" x2="742.6" y2="779"/>
+<line class="st0" x1="658.3" y1="779" x2="658.3" y2="706.4"/>
+<line class="st0" x1="742.2" y1="748.4" x2="864" y2="748.4"/>
+<line class="st0" x1="741.9" y1="809.6" x2="765.8" y2="809.6"/>
+<line class="st0" x1="742.6" y1="809.4" x2="742.6" y2="748.6"/>
+<circle class="st0" cx="772.6" cy="809.6" r="6.9"/>
+<circle class="st0" cx="870.9" cy="749.6" r="6.9"/>
+<line class="st4" x1="46.5" y1="696.8" x2="153.5" y2="696.8"/>
+<line class="st0" x1="46.5" y1="775.1" x2="177.2" y2="775.1"/>
+<line class="st0" x1="46.5" y1="775.1" x2="46.5" y2="696.8"/>
+<line class="st0" x1="21" y1="736" x2="46.5" y2="736"/>
+<g>
+	<line class="st4" x1="152.9" y1="696.7" x2="197.1" y2="661.8"/>
+	<line class="st4" x1="153.5" y1="696.8" x2="196.5" y2="725.5"/>
+	<line class="st4" x1="196.5" y1="725.5" x2="197" y2="661.5"/>
+</g>
+<g>
+	<line class="st0" x1="177.2" y1="775.3" x2="221.3" y2="740.4"/>
+	<line class="st0" x1="177.7" y1="775.5" x2="220.8" y2="804.1"/>
+	<line class="st0" x1="220.8" y1="804.1" x2="221.3" y2="740.1"/>
+</g>
+<line class="st4" x1="356.5" y1="701.7" x2="518" y2="701.7"/>
+<line class="st0" x1="356.5" y1="780" x2="487.1" y2="780"/>
+<line class="st0" x1="356.5" y1="780" x2="356.5" y2="701.7"/>
+<line class="st0" x1="330.9" y1="740.9" x2="356.5" y2="740.9"/>
+<g>
+	<line class="st4" x1="518" y1="701.8" x2="562.2" y2="666.9"/>
+	<line class="st4" x1="518.6" y1="701.9" x2="561.6" y2="730.6"/>
+	<line class="st4" x1="561.6" y1="730.6" x2="562.1" y2="666.5"/>
+</g>
+<g>
+	<line class="st0" x1="487.1" y1="780.2" x2="531.3" y2="745.3"/>
+	<line class="st0" x1="487.7" y1="780.3" x2="530.7" y2="809"/>
+	<line class="st0" x1="530.7" y1="809" x2="531.2" y2="744.9"/>
+</g>
+<text transform="matrix(1 0 0 1 30.6949 547.0485)" class="st1 st3">Invalid lineages</text>
+<path class="st5" d="M131.8,115.9c0-6.7,2.4-12.1,5.3-12.1h130.6c2.9,0,5.3-5.4,5.3-12.1c0,6.7,2.4,12.1,5.3,12.1h130.6
+	c2.9,0,5.3,5.4,5.3,12.1"/>
+<path class="st5" d="M136.7,223.5c0-6.7,1.8-12.1,4-12.1h99.6c2.2,0,4-5.4,4-12.1c0,6.7,1.8,12.1,4,12.1h99.6c2.2,0,4,5.4,4,12.1"/>
+<text transform="matrix(1 0 0 1 209.2202 82.7011)" class="st1 st6">32 substitutions</text>
+<text transform="matrix(1 0 0 1 179.3947 190.8744)" class="st1 st6">28 substitutions</text>
+<text transform="matrix(1 0 0 1 517.4893 133.8643)" class="st1 st6">n = 56</text>
+<text transform="matrix(1 0 0 1 456.1667 230)" class="st1 st6">n = 16</text>
+<path class="st5" d="M234.7,307c0-6.7,2.4-12.1,5.3-12.1h130.6c2.9,0,5.3-5.4,5.3-12.1c0,6.7,2.4,12.1,5.3,12.1h130.6
+	c2.9,0,5.3,5.4,5.3,12.1"/>
+<text transform="matrix(1 0 0 1 312.0668 276.7621)" class="st1 st6">25 substitutions</text>
+<path class="st5" d="M294.2,427.5c0-6.7,1.9-12.1,4.3-12.1h107.4c2.4,0,4.3-5.4,4.3-12.1c0,6.7,1.9,12.1,4.3,12.1H522
+	c2.4,0,4.3,5.4,4.3,12.1"/>
+<text transform="matrix(1 0 0 1 369.082 394.289)" class="st1 st6">29 substitutions</text>
+<text transform="matrix(1 0 0 1 616.8684 313.7537)" class="st1 st6">n = 100</text>
+<text transform="matrix(1 0 0 1 628.9781 442.3573)" class="st1 st6">n = 20</text>
+<text transform="matrix(1 0 0 1 718.8364 363.0992)" class="st1 st2">Branch length &gt;= 25 substitutions</text>
+<text transform="matrix(1 0 0 1 719.7809 399.7747)"><tspan x="0" y="0" class="st1 st2">Number of tips &gt;= 15</tspan><tspan x="0" y="36" class="st1 st2">Sister lineage</tspan></text>
+<path class="st5" d="M47.1,691c0-6.7,0.9-12.1,1.9-12.1h47.3c1.1,0,1.9-5.4,1.9-12.1c0,6.7,0.9,12.1,1.9,12.1h47.3
+	c1.1,0,1.9,5.4,1.9,12.1"/>
+<text transform="matrix(1 0 0 1 46.3143 655.7358)" class="st1 st7">23 substitutions</text>
+<path class="st5" d="M52.3,769.3c0-6.7,1-12.1,2.2-12.1H108c1.2,0,2.2-5.4,2.2-12.1c0,6.7,1,12.1,2.2,12.1h53.5
+	c1.2,0,2.2,5.4,2.2,12.1"/>
+<text transform="matrix(1 0 0 1 57.301 739.8134)" class="st1 st7">28 substitutions</text>
+<text transform="matrix(1 0 0 1 214.5081 696.8461)" class="st1 st6">n = 56</text>
+<text transform="matrix(1 0 0 1 230.1664 779.6194)" class="st1 st6">n = 16</text>
+<path class="st5" d="M358.9,692.4c0-6.7,1.3-12.1,3-12.1h73.6c1.6,0,3-5.4,3-12.1c0,6.7,1.3,12.1,3,12.1h73.6c1.6,0,3,5.4,3,12.1"/>
+<path class="st5" d="M362.7,770.2c0-6.7,1-12.1,2.2-12.1h54.7c1.2,0,2.2-5.4,2.2-12.1c0,6.7,1,12.1,2.2,12.1h54.7
+	c1.2,0,2.2,5.4,2.2,12.1"/>
+<text transform="matrix(1 0 0 1 382.803 658.2871)" class="st1 st7">32 substitutions</text>
+<text transform="matrix(1 0 0 1 372.3277 741.0086)" class="st1 st7">28 substitutions</text>
+<path class="st5" d="M706.5,669.8c0-6.7,1.2-12.1,2.7-12.1h67.7c1.5,0,2.7-5.4,2.7-12.1c0,6.7,1.2,12.1,2.7,12.1H850
+	c1.5,0,2.7,5.4,2.7,12.1"/>
+<text transform="matrix(1 0 0 1 729.7589 640.9423)" class="st1 st7">32 substitutions</text>
+<text transform="matrix(1 0 0 1 576.6172 708.526)" class="st1 st6">n = 8</text>
+<text transform="matrix(1 0 0 1 545.9664 780.2318)" class="st1 st6">n = 16</text>
+<text transform="matrix(1 0 0 1 910.7388 678.6375)" class="st1 st6">n = 56</text>
+<text transform="matrix(1 0 0 1 46.5436 616.8499)" class="st1 st8">Branch too short</text>
+<text transform="matrix(1 0 0 1 375.7928 616.8492)" class="st1 st8">Clade too small</text>
+<text transform="matrix(1 0 0 1 709.5242 616.8499)" class="st1 st8">No valid sister lineage</text>
+</svg>
