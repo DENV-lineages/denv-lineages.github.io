@@ -1,6 +1,5 @@
 ---
 title: "Dengue lineage designation rules"
-layout: splash
 toc: true
 toc_sticky: true
 header:
@@ -31,7 +30,7 @@ This system is built off experience developing lineage systems for other viruses
 
 Broadly speaking, we define **major** and **minor** lineages within each genotype. These lineages are defined by the same [rules](#rules), but use different [nomenclature](#names). In theory, minor lineages should be more useful for country-specific questions, and major lineages for regional questions. Of course, it won't always necessarily work that - some minor lineages are very widepsread, and some major lineages are geographically limited. 
 
-We designated an initial set of lineages
+We designated an initial set of lineages based on all publicly available whole genome sequences with coverage greater than 70% in mid-2023. We envision two ways of generating new lineage suggestions. The first is through [community effort via a github repo](#how-to-submit-a-designation-request), which has some  
 
 ## Rules
 
