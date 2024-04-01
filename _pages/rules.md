@@ -1,6 +1,8 @@
 ---
 title: "Dengue lineage designation rules"
-layout: splash
+layout: default
+toc: true
+toc_sticky: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -16,11 +18,18 @@ figure1:
 
 This page contains instructions on **designating new lineages**. In other words, these are the rules for suggesting a new sub-genotypic grouping. If you are looking for where to assign an existing lineage to new sequences, please use one of our partner assignment tools, found on the [resources page](/_pages/resources/).
 
+- For an overview of the system, go to [overview](#overview)
 - For the rules and thresholds that a new lineage must satisfy to go [rules](#rules). 
 - For how to name a new lineage go to [names](#names). 
 - For the practicalities of how you actually submit a naming request go to [how to submit a designation request](#how-to-submit-a-designation-request)
 - For information on how often we review requests go to [review timelines](#review-timelines)
 - For other issues, try our [frequently asked questions](/_pages/faq/) 
+
+## Overview
+
+This system is built off experience developing lineage systems for other viruses of public health importance, and is the result of a global collaboration of researchers and public health professionals. It aims to provide additional spatial and temporal resolution with which to discuss the large genetic diversity of dengue virus. Specifically, it splits up existing genotypes into smaller groups and provides a standardized, neutral naming system.
+
+Broadly speaking, we define **major** and **minor** lineages within each genotype. These lineages are defined by the same rules
 
 ## Rules
 
@@ -39,10 +48,9 @@ Figure one shows examples of acceptable and non-acceptable lineage suggestions:
 {% include gallery id="figure1" caption="Figure one: examples of putative lineages and how they fit with the rules" %}
 
 
-
-
-
 ## Names
+
+The nomenclature system is split into two 
 
 ## How to submit a designation request
 
