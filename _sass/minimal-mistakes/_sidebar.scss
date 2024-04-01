@@ -147,6 +147,18 @@ img {
   }
 }
 
+  .splash .sidebar__left {
+    @include breakpoint($large) {
+      position: relative;
+      float: left;
+      margin-left: 0;
+    }
+  
+    @include breakpoint($x-large) {
+      margin-left: 0;
+    }
+}
+
 /*
    Author profile and links
    ========================================================================== */
