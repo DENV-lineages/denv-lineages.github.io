@@ -10,4 +10,39 @@ header:
       url: "https://github.com/DENV-lineages/denv-lineage-designation/issues"
 ---
 
-Placeholder text
+This page contains instructions on **designating new lineages**. In other words, these are the rules for suggesting a new sub-genotypic grouping. If you are looking for where to assign an existing lineage to new sequences, please use one of our partner assignment tools, found on the [resources page](/_pages/resources/).
+
+- For the rules and thresholds that a new lineage must satisfy to go [rules](#rules). 
+- For how to name a new lineage go to [names](#names). 
+- For the practicalities of how you actually submit a naming request go to [how to submit a designation request](#how-to-submit-a-designation-request)
+- For information on how often we review requests go to [review timelines](#review-timelines)
+- For other issues, try our [frequently asked questions](/_pages/faq/) 
+
+## Rules
+
+There are three rules which must be met for a putative new lineage to be named. 
+
+We note that we designate lineages based on defining **nodes** - i.e. all of the tips downstream of this node will be included in the lineage definition.
+
+1. The branch leading up to the defining node should be **at least 25 substitutions long**
+2. There should be at least **15 sequences** in the putative clade
+3. There should be at least one **sister lineage** the same number of nodes away from the parent defining node. This may be an existing or a new lineage. 
+
+We understand that third rule in particular may be challenging to do manually, and so we provide some python scripts for identifying sister lineages [here](https://github.com/DENV-lineages/lineages-paper). We do not recommend using the scripts on this repository for branch length because they are specific to our alignment length.
+
+Figure one shows examples of acceptable and non-acceptable lineage suggestions:
+
+
+<figure style="width: 80px" class="align-center">
+  <a href="/assets/images/designation_rules.pdf" title="Figure 1" alt="Designation rules">
+  <img src="/assets/images/designation_rules.pdf" alt=""></a>
+  <figcaption>Figure one: examples of acceptable and non-acceptable lineage suggestions</figcaption>
+</figure>
+
+
+
+## Names
+
+## How to submit a designation request
+
+## Review timelines
