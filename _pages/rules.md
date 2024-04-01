@@ -30,7 +30,9 @@ This system is built off experience developing lineage systems for other viruses
 
 Broadly speaking, we define **major** and **minor** lineages within each genotype. These lineages are defined by the same [rules](#rules), but use different [nomenclature](#names). In theory, minor lineages should be more useful for country-specific questions, and major lineages for regional questions. Of course, it won't always necessarily work that - some minor lineages are very widepsread, and some major lineages are geographically limited. 
 
-We designated an initial set of lineages based on all publicly available whole genome sequences with coverage greater than 70% in mid-2023. We envision two ways of generating new lineage suggestions. The first is through [community effort via a github repo](#how-to-submit-a-designation-request), which has some  
+We designated an initial set of lineages based on all publicly available whole genome sequences with coverage greater than 70% in mid-2023. We envision two ways of generating new lineage suggestions. The first is through [community effort via a github repo](#how-to-submit-a-designation-request), which is what this page is designed to help with. Here, members of the dengue research/public health community can suggest new lineages to help with their surveillance efforts. These will be reviewed with some [regularity](#review-timelines) and given a "putative" name. The second method is an annual review, where all publicly available whole genome data is run through custom scripts to ensure that all new lineages have been identified, including appropriate putative ones suggested throughout the year. These will then be reviewed by an advisory board and assignment tools are updated. 
+
+The community effort therefore is a way of getting a lineage designation **in between** annual reviews, although if it is a valid lineage, rest assured that it will be included in the system at the annual review regardless of whether it is pitched on the github repository.
 
 ## Rules
 
