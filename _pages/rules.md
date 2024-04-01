@@ -18,12 +18,6 @@ figure1:
 
 This page contains instructions on **designating new lineages**. In other words, these are the rules for suggesting a new sub-genotypic grouping. If you are looking for where to assign an existing lineage to new sequences, please use one of our partner assignment tools, found on the [resources page](/_pages/resources/).
 
-- For an overview of the system, go to [overview](#overview)
-- For the rules and thresholds that a new lineage must satisfy to go [rules](#rules). 
-- For how to name a new lineage go to [names](#names). 
-- For the practicalities of how you actually submit a naming request go to [how to submit a designation request](#how-to-submit-a-designation-request)
-- For information on how often we review requests go to [review timelines](#review-timelines)
-- For other issues, try our [frequently asked questions](/_pages/faq/) 
 
 ## Overview
 
