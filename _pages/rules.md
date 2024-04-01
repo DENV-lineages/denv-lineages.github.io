@@ -8,6 +8,10 @@ header:
   actions:
     - label: "Submit lineage designations here"
       url: "https://github.com/DENV-lineages/denv-lineage-designation/issues"
+figure1:
+  - image_path: "/assets/images/designation_rules.pdf"
+    alt: "figure one"
+    title: "Figure one"
 ---
 
 This page contains instructions on **designating new lineages**. In other words, these are the rules for suggesting a new sub-genotypic grouping. If you are looking for where to assign an existing lineage to new sequences, please use one of our partner assignment tools, found on the [resources page](/_pages/resources/).
@@ -32,12 +36,9 @@ We understand that third rule in particular may be challenging to do manually, a
 
 Figure one shows examples of acceptable and non-acceptable lineage suggestions:
 
+{% include gallery id="figure1" caption="Figure one: examples of putative lineages and how they fit with the rules" %}
 
-<figure style="width: 80px" class="align-center">
-  <a href="/assets/images/designation_rules.pdf" title="Figure 1" alt="Designation rules">
-  <img src="/assets/images/designation_rules.pdf" alt=""></a>
-  <figcaption>Figure one: examples of acceptable and non-acceptable lineage suggestions</figcaption>
-</figure>
+
 
 
 
