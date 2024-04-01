@@ -9,7 +9,7 @@ header:
     - label: "Submit lineage designations here"
       url: "https://github.com/DENV-lineages/denv-lineage-designation/issues"
 figure1:
-  - image_path: "/assets/images/designation_rules.pdf"
+  - image_path: "/assets/images/genome_detective.svg"
     alt: "figure one"
     title: "Figure one"
 ---
