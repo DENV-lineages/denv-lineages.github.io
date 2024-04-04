@@ -49,8 +49,23 @@ Figure one shows examples of acceptable and non-acceptable lineage suggestions:
 
 ## Names
 
-The nomenclature system is split into two 
+The nomenclature system is split into two levels, named major and minor lineages. As it stands, these levels have the same defining rules but use different naming systems. 
+
+Major lineages are defined using **letters** and minor lineages are defined using **dots and numbers**. Importantly, there is only one level of major lineages, but there can be as many nested levels of minor lineages as required.
+
+To come up with a new name for a putative lineage:
+- Identify which is the **parent lineage**. For example, if it falls into 2V_A then that is what the name will start with.
+- Check which names are [already used](/_pages/descriptions) in this parent lineage. 
+- For putative major lineages: choose the next letter in the roman alphabet in that genotype. Eg if there is already genotype I major lineage A and B, the next lineage will be genotype I major lineage C.
+- For putative minor lineages: choose the next number in the parent lineage. For example if 2V_A.1.1 and 2V_A.1.2 exist, then the next lineage will be 2V_A.1.3. 
+
+Within a parent lineage, the numbers and letters are somewhat arbitrary - i.e. 2V_A.1 and 2V_A.2 are not necessarily immediate sister lineages, they were simply designated in that order. This is in part because the vertical axis of a vertical rectangular phylogeny (i.e. all of the phylogenies on this website) is itself arbitrary, and branches can be rotated around nodes without changing the topology.
+
 
 ## How to submit a designation request
+
+You have two options. The first is to just wait for the annual review - if the lineage meets all of our criteria and the data is on genbank, then it will be designated as part of this process. 
+
+The second is to submit an issue to our 
 
 ## Review timelines
