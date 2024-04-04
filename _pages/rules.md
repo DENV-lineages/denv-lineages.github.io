@@ -3,7 +3,6 @@ title: "Dengue lineage designation rules"
 layout: dengue_layout
 toc: false
 toc_sticky: false
-classes: wide-left
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
