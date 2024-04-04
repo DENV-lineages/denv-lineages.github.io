@@ -145,22 +145,11 @@ img {
   @include breakpoint($x-large) {
     margin-right: 0;
   }
-}
 
-  .splash .sidebar__left {
-    @include breakpoint($large) {
-      position: relative;
-      float: left;
-      margin-left: 0;
-    }
-  
-    @include breakpoint($x-large) {
-      margin-left: 0;
-    }
 }
 
 
-.dengue_layout .sidebar__left {
+.dengue_layout .sidebar {
   @include breakpoint($large) {
     position: relative;
     float: left;
