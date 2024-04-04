@@ -15,6 +15,10 @@ figure1:
   - image_path: "/assets/images/designation_rules.svg"
     alt: "figure one"
     title: "Figure one"
+figure2:
+  - image_path: "/assets/images/issue_template.png"
+    alt: "figure two"
+    title: "Figure two"
 ---
 
 This page contains instructions on **designating new lineages**. In other words, these are the rules for suggesting a new sub-genotypic grouping. If you are looking for where to assign an existing lineage to new sequences, please use one of our partner assignment tools, found on the [resources page](/_pages/resources/).
@@ -66,6 +70,13 @@ Within a parent lineage, the numbers and letters are somewhat arbitrary - i.e. 2
 
 You have two options. The first is to just wait for the annual review - if the lineage meets all of our criteria and the data is on genbank, then it will be designated as part of this process. 
 
-The second is to submit an issue to our 
+The second is to submit an issue to our [github repository](https://github.com/DENV-lineages/denv-lineage-designation) using the issue template provided by clicking on issues, and then "new issue".
+
+{% include gallery id="figure2" caption="Figure two: github issue template" %}
+
 
 ## Review timelines
+
+The next annual review will be in **August 2024**
+
+We will aim to go through github issues with some regularity, but at this stage we cannot say what that will be - it is dependent on the number of suggestions and personnel.
