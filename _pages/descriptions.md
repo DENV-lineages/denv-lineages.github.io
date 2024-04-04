@@ -1,6 +1,6 @@
 ---
 title: "Dengue lineage information"
-layout: splash
+layout: dengue_layout
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
