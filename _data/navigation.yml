@@ -8,6 +8,6 @@ main:
     url: /_pages/rules/
   - title: "Resources"
     url: /_pages/resources/
-  - title: "FAQ"
-    url: /_pages/faq/
+  - title: "Contact"
+    url: /_pages/contact/
 
