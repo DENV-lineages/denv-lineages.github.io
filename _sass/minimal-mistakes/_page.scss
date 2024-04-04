@@ -577,7 +577,7 @@ body {
   }
 }
 
-.wide-left {
+.left-wide {
   .page {
     @include breakpoint($large) {
       padding-left: 0;
