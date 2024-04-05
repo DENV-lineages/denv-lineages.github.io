@@ -37,26 +37,26 @@ Information on [genotypes](#genotypes), [major lineages](#major-lineages) and [m
 
 |Genotype  |Common Name                      |Size|Most common region             |First sampled|type    |
 |----------|---------------------------------|----|--------------------------------|-----------|--------|
-|[1I](https://nextstrain.org/community/grubaughlab/DENV-genomics/d1?c=Region&f_Lineage=1I)        |                                 |3294|Vietnam                         |1981-01-01  |urban   |
-|[1II](https://nextstrain.org/community/grubaughlab/DENV-genomics/d1?c=Region&f_Lineage=1II)       |                                 |2   |Thailand                        |1960-01-01 |urban   |
-|[1III](https://nextstrain.org/community/grubaughlab/DENV-genomics/d1?c=Region&f_Lineage=1III)      |                                 |351 |China                           |1973-01-01 |urban   |
-|[1IV](https://nextstrain.org/community/grubaughlab/DENV-genomics/d1?c=Region&f_Lineage=1IV)       |                                 |113 |Philippines                     |1974-01-01 |urban   |
-|[1V](https://nextstrain.org/community/grubaughlab/DENV-genomics/d1?c=Region&f_Lineage=1V)        |                                 |1684|Brazil                          |1956-01-01 |urban   |
-|[1VI](https://nextstrain.org/community/grubaughlab/DENV-genomics/d1?c=Region&f_Lineage=1VI)       |                                 |27  |Democratic_Republic_of_the_Congo|1971-01-01|urban   |
-|[2I](https://nextstrain.org/community/grubaughlab/DENV-genomics/d2?c=Region&f_Lineage=2I)        |American                         |37  |Tonga                           |1960-01-01 |urban   |
-|[2II](https://nextstrain.org/community/grubaughlab/DENV-genomics/d2?c=Region&f_Lineage=2II)       |Cosmopolitan                     |1337|China                           |1969-01-01 |urban   |
-|[2III](https://nextstrain.org/community/grubaughlab/DENV-genomics/d2?c=Region&f_Lineage=2III)      |Southern/southeast Asian-American|1243|Brazil                          |1981-01-01 |urban   |
-|[2IV](https://nextstrain.org/community/grubaughlab/DENV-genomics/d2?c=Region&f_Lineage=2IV)       |Asian II                         |12  |Philippines                     |1988-01-01 |urban   |
-|[2V](https://nextstrain.org/community/grubaughlab/DENV-genomics/d2?c=Region&f_Lineage=2V)        |                                 |1285|Thailand                        |1964-01-01 |urban   |
-|[2VI](https://nextstrain.org/community/grubaughlab/DENV-genomics/d2?c=Region&f_Lineage=2V)       |Sylvatic                         |23  |Senegal                         |1966-01-01 |sylvatic|
-|[3I](https://nextstrain.org/community/grubaughlab/DENV-genomics/d3?c=Region&f_Lineage=3I)        |                                 |161 |China                           |1978-01-01 |urban   |
-|[3II](https://nextstrain.org/community/grubaughlab/DENV-genomics/d3?c=Region&f_Lineage=3II)      |                                 |714 |Thailand                        |1973-01-01 |urban   |
-|[3III](https://nextstrain.org/community/grubaughlab/DENV-genomics/d3?c=Region&f_Lineage=3III)      |                                 |1223|USA                             |1966-01-01 |urban   |
-|[3V](https://nextstrain.org/community/grubaughlab/DENV-genomics/d3?c=Region&f_Lineage=3V)        |                                 |3   |Philippines                     |1956-01-01 |urban   |
-|[4I](https://nextstrain.org/community/grubaughlab/DENV-genomics/d4?c=Region&f_Lineage=4I)        |                                 |678 |Thailand                        |1956-01-01 |urban   |
-|[4II](https://nextstrain.org/community/grubaughlab/DENV-genomics/d4?c=Region&f_Lineage=4II)       |                                 |299 |Brazil                          |1953-01-01 |urban   |
-|[4III](https://nextstrain.org/community/grubaughlab/DENV-genomics/d4?c=Region&f_Lineage=4III)      |                                 |9   |Thailand                        |1996-01-01 |urban   |
-|[4IV](https://nextstrain.org/community/grubaughlab/DENV-genomics/d4?c=Region&f_Lineage=4IV)       |                                 |7   |Malaysia                        |1973-01-01|sylvatic|
+|[1I](https://nextstrain.org/community/grubaughlab/DENV-genomics/d1?c=Region&f_Lineage=1I)        |                                 |3294|South East Asia                         |1981-01-01  |urban   |
+|[1II](https://nextstrain.org/community/grubaughlab/DENV-genomics/d1?c=Region&f_Lineage=1II)       |                                 |2   |South East Asia                            |1960-01-01 |urban   |
+|[1III](https://nextstrain.org/community/grubaughlab/DENV-genomics/d1?c=Region&f_Lineage=1III)      |                                 |351 |East Asia                           |1973-01-01 |urban   |
+|[1IV](https://nextstrain.org/community/grubaughlab/DENV-genomics/d1?c=Region&f_Lineage=1IV)       |                                 |113 |East Asia                     |1974-01-01 |urban   |
+|[1V](https://nextstrain.org/community/grubaughlab/DENV-genomics/d1?c=Region&f_Lineage=1V)        |                                 |1684|South America                          |1956-01-01 |urban   |
+|[1VI](https://nextstrain.org/community/grubaughlab/DENV-genomics/d1?c=Region&f_Lineage=1VI)       |                                 |27  |Sub-saharan Africa 1971-01-01|urban   |
+|[2I](https://nextstrain.org/community/grubaughlab/DENV-genomics/d2?c=Region&f_Lineage=2I)        |American                         |37  |Pacific                           |1960-01-01 |urban   |
+|[2II](https://nextstrain.org/community/grubaughlab/DENV-genomics/d2?c=Region&f_Lineage=2II)       |Cosmopolitan                     |1337|East Asia                           |1969-01-01 |urban   |
+|[2III](https://nextstrain.org/community/grubaughlab/DENV-genomics/d2?c=Region&f_Lineage=2III)      |Southern/southeast Asian-American|1243|South America                          |1981-01-01 |urban   |
+|[2IV](https://nextstrain.org/community/grubaughlab/DENV-genomics/d2?c=Region&f_Lineage=2IV)       |Asian II                         |12  |East Asia                     |1988-01-01 |urban   |
+|[2V](https://nextstrain.org/community/grubaughlab/DENV-genomics/d2?c=Region&f_Lineage=2V)        |                                 |1285|South East Asia                        |1964-01-01 |urban   |
+|[2VI](https://nextstrain.org/community/grubaughlab/DENV-genomics/d2?c=Region&f_Lineage=2V)       |Sylvatic                         |23  |Sub-saharan Africa                         |1966-01-01 |sylvatic|
+|[3I](https://nextstrain.org/community/grubaughlab/DENV-genomics/d3?c=Region&f_Lineage=3I)        |                                 |161 |East Asia                           |1978-01-01 |urban   |
+|[3II](https://nextstrain.org/community/grubaughlab/DENV-genomics/d3?c=Region&f_Lineage=3II)      |                                 |714 |South East Asia                        |1973-01-01 |urban   |
+|[3III](https://nextstrain.org/community/grubaughlab/DENV-genomics/d3?c=Region&f_Lineage=3III)      |                                 |1223|North America                             |1966-01-01 |urban   |
+|[3V](https://nextstrain.org/community/grubaughlab/DENV-genomics/d3?c=Region&f_Lineage=3V)        |                                 |3   |South East Asia                     |1956-01-01 |urban   |
+|[4I](https://nextstrain.org/community/grubaughlab/DENV-genomics/d4?c=Region&f_Lineage=4I)        |                                 |678 |South East Asia                        |1956-01-01 |urban   |
+|[4II](https://nextstrain.org/community/grubaughlab/DENV-genomics/d4?c=Region&f_Lineage=4II)       |                                 |299 |South America                          |1953-01-01 |urban   |
+|[4III](https://nextstrain.org/community/grubaughlab/DENV-genomics/d4?c=Region&f_Lineage=4III)      |                                 |9   |South East Asia                        |1996-01-01 |urban   |
+|[4IV](https://nextstrain.org/community/grubaughlab/DENV-genomics/d4?c=Region&f_Lineage=4IV)       |                                 |7   |South East Asia                        |1973-01-01|sylvatic|
 
 
 {% include gallery id="figure1" caption="Figure one: maximum likelihood phylogeny showing genotypes for each serotype" %}
