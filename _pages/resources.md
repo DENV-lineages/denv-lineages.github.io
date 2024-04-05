@@ -14,7 +14,10 @@ excerpt: "Lab protocols, bioinformatic pipelines, and helpful software"
         <div class="splash_section" id="assignment_tools">
                 {% for item in site.data.resources %}
                     {% if item.category == category.name %}
-                        <figure class="effect-duke">
+                    {{item.name}} 
+                    {{item.description}}
+                        <!-- <figure class="effect-duke">
+                            <img src="/assets/images/{{item.picture}}"/>
                             <figcaption>
                                 <p>
                                     {{item.name}}<br>
@@ -22,7 +25,7 @@ excerpt: "Lab protocols, bioinformatic pipelines, and helpful software"
                                 </p>
                                 <a class="btn" href="{{item.link}}" style="color: white !important">Go to website</a>
                             </figcaption>			
-                        </figure>
+                        </figure> -->
 
                     {% endif %}	
                 {% endfor %}
