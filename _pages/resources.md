@@ -8,6 +8,7 @@ header:
 excerpt: "Lab protocols, bioinformatic pipelines, and helpful software"
 toc: true
 toc_sticky: true
+classes: wide
 
 ---
 
