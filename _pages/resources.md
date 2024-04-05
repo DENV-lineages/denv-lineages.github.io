@@ -18,7 +18,7 @@ classes: wide
         <div>
                 {% for item in site.data.resources %}
                     {% if item.category == category.name %}
-                    <header><h3> [{{item.name}}]({{item.link}}) </h3></header>
+                    <header><h3> <a href="{{item.link}}">{{item.name}} </a> </h3></header>
                     <p>{{item.description}} </p>
                         <!-- <figure class="effect-duke">
                             <img src="/assets/images/{{item.picture}}"/>
