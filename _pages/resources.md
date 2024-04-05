@@ -8,26 +8,27 @@ header:
 excerpt: "Lab protocols, bioinformatic pipelines, and helpful software"
 ---
 
+<div>
+    {% for category in site.data.resource_categories %}
+        # {{category.name}}
+        <div>
+                {% for item in site.data.resources %}
+                    {% if item.category == category.name %}
+                    ## {{item.name}} 
+                    {{item.description}}
+                        <!-- <figure class="effect-duke">
+                            <img src="/assets/images/{{item.picture}}"/>
+                            <figcaption>
+                                <p>
+                                    {{item.name}}<br>
+                                    <span class="duke-description">{{item.description}}</span>
+                                </p>
+                                <a class="btn" href="{{item.link}}" style="color: white !important">Go to website</a>
+                            </figcaption>			
+                        </figure> -->
 
-{% for category in site.data.resource_categories %}
-    ## {{category.name}}
-    <div class="splash_section" id="assignment_tools">
-            {% for item in site.data.resources %}
-                {% if item.category == category.name %}
-                {{item.name}} 
-                {{item.description}}
-                    <!-- <figure class="effect-duke">
-                        <img src="/assets/images/{{item.picture}}"/>
-                        <figcaption>
-                            <p>
-                                {{item.name}}<br>
-                                <span class="duke-description">{{item.description}}</span>
-                            </p>
-                            <a class="btn" href="{{item.link}}" style="color: white !important">Go to website</a>
-                        </figcaption>			
-                    </figure> -->
-
-                {% endif %}	
-            {% endfor %}
-    </div>
-{% endfor %} 
+                    {% endif %}	
+                {% endfor %}
+        </div>
+    {% endfor %}
+</div> 
