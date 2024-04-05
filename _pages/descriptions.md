@@ -9,6 +9,19 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/dengue.jpeg
 excerpt: "Data last downloaded: 2023-07-28"
+figure1:
+  - image_path: "/assets/images/genotypes.svg"
+    alt: "Genotypes"
+    title: "Genotypes"
+figure2:
+  - image_path: "/assets/images/major_lineages.svg"
+    alt: "Major Lineages"
+    title: "Major Lineages"
+figure3:
+  - image_path: "/assets/images/minor_lineages.svg"
+    alt: "Minor Lineages"
+    title: "Minor Lineages"
+
 ---
 
 These are the descriptions of the current state of officially designated lineages. 
@@ -45,6 +58,8 @@ Information on [genotypes](#genotypes), [major lineages](#major-lineages) and [m
 |4III      |                                 |9   |Thailand                        |1996-01-01 |2005-01-01 |urban   |
 |4IV       |                                 |7   |Malaysia                        |1973-01-01 |1975-01-01 |sylvatic|
 
+
+{% include gallery id="figure1" caption="Figure one: maximum likelihood phylogeny showing genotypes for each serotype" %}
 
 ### Major lineages
 
@@ -101,6 +116,10 @@ Information on [genotypes](#genotypes), [major lineages](#major-lineages) and [m
 |4I_B      |69  |28.01        |India              |1979-01-01 |2021-11-29 |
 |4II_A     |90  |87.66        |Indonesia          |1973-01-01 |2022-07-01 |
 |4II_B     |209 |112.91       |Brazil             |1953-01-01 |2022-12-20 |
+
+
+{% include gallery id="figure2" caption="Figure two: maximum likelihood phylogeny showing major lineages for each serotype" %}
+
 
 ### Minor lineages
 
@@ -170,3 +189,5 @@ Information on [genotypes](#genotypes), [major lineages](#major-lineages) and [m
 |4I_B.2    |28  |34.43        |Sri_Lanka          |2009-01-01 |2016-07-03 |
 |4II_A.1   |15  |36.94        |Indonesia          |2017-01-01 |2022-07-01 |
 |4II_A.2   |15  |50.17        |China              |2007-05-30 |2010-10-01 |
+
+{% include gallery id="figure3" caption="Figure three: maximum likelihood phylogeny showing minor lineages for each serotype" %}
