@@ -10,12 +10,12 @@ excerpt: "Lab protocols, bioinformatic pipelines, and helpful software"
 
 <div>
     {% for category in site.data.resource_categories %}
-        # {{category.name}}
+        <header><h2> {{category.name}} </h2></header>
         <div>
                 {% for item in site.data.resources %}
                     {% if item.category == category.name %}
-                    ## {{item.name}} 
-                    {{item.description}}
+                    <header><h3> {{item.name}} </h3></header>
+                    <p>{{item.description}} </p>
                         <!-- <figure class="effect-duke">
                             <img src="/assets/images/{{item.picture}}"/>
                             <figcaption>
