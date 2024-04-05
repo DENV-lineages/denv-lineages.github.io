@@ -15,7 +15,6 @@ excerpt: "Lab protocols, bioinformatic pipelines, and helpful software"
                 {% for item in site.data.resources %}
                     {% if item.category == category.name %}
                         <figure class="effect-duke">
-                            <img src="/assets/images/{{item.picture}}"/>
                             <figcaption>
                                 <p>
                                     {{item.name}}<br>
